@@ -1,0 +1,4 @@
+wxpython
+
+git+https://github.com/lixxu/windbreads.git
+git+https://github.com/lixxu/wxbreads.git
